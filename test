@@ -1,0 +1,10 @@
+total 32
+drwxrwxr-x.  2 martin martin 4096 Feb 17 17:04 .
+drwx------. 35 martin martin 4096 Feb 17 17:04 ..
+-rwxr-x---.  1 martin martin 1779 Feb 16 16:45 dbbackup2.sh
+-rwxr-x---.  1 martin martin 1214 Feb 16 16:45 dbbackup3.sh
+-rwxr-x---.  1 martin martin 1220 Feb 16 16:45 dbbackup.sh
+-rwxr-x---.  1 martin martin 1136 Feb 16 16:45 dbbackup.sh.bak
+-rw-rw-r--.  1 martin martin   99 Feb 17 13:05 dbmail
+-rwxr-x---.  1 martin martin 1862 Feb 17 17:04 dbscrip.sh
+-rw-rw-r--.  1 martin martin    0 Feb 17 17:04 test
