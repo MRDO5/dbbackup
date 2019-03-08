@@ -12,7 +12,7 @@ DB_BACKUP_PATH='/backup/dbbackup'
 MYSQL_HOST='localhost'
 MYSQL_PORT='3306'
 MYSQL_USER='backup'
-MYSQL_PASSWORD='cPLkv3B4JNCydAFQ'
+MYSQL_PASSWORD='passwd'
 #DATABASES=("cabinet" "admin" "site")
 for DATABASE_NAME in "cabinet" "admin" "site"
 do
